@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 ## About
-<center>
+
 <p>A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
 
 Actively try to keep up to date and learn new approaches in this field.</p> 
@@ -12,16 +12,17 @@ Actively try to keep up to date and learn new approaches in this field.</p>
 
 <p>I have a Master in Computer Engineering-Artificial intelligence.</p> 
 
-
+<center>
 <img src="controverse/images/amirfarzad.jpg"
      alt="centered image"
      width="426"
      height="320"
      title="Amir Farzad">
-
+</center>
 
 ## Links
 
+<center>
 <a href="https://github.com/faamir">
 <img src="controverse/images/github-mark.png" alt="Github" style="width:5%;height:5%;">
 </a>
