@@ -20,10 +20,14 @@ Actively try to keep up to date and learn new approaches in this field.</p>
      title="Amir Farzad">
 </center>
 
-## Contact
+## Links
 
-<a href="default.asp">
+<a href="https://github.com/faamir">
 <img src="controverse/images/github-mark.png" alt="Github" style="width:42px;height:42px;">
 </a>
-
-**Other**: [Github](https://github.com/faamir), [Google Scholar](https://scholar.google.com/citations?user=wxG4QuUAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/amir-farzad-78930481/) 
+<a href="https://scholar.google.com/citations?user=wxG4QuUAAAAJ&hl=en">
+<img src="controverse/images/google.png" alt="Google Scholar" style="width:42px;height:42px;">
+</a>
+<a href="https://www.linkedin.com/in/amir-farzad-78930481/">
+<img src="controverse/images/linkedin.png" alt="LinkedIn" style="width:42px;height:42px;">
+</a>
