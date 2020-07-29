@@ -16,4 +16,4 @@ I have a Master in Computer Engineering-Artificial intelligence.
 
 **Email**: *amirfarzad* at *uvic* dot ca
 
-**Other**: [Github](https://github.com/faamir), [LinkedIn](https://www.linkedin.com/in/amir-farzad-78930481/), [Google Scholar](https://scholar.google.com/citations?user=wxG4QuUAAAAJ&hl=en)
+**Other**: [Github](https://github.com/faamir), [Google Scholar](https://scholar.google.com/citations?user=wxG4QuUAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/amir-farzad-78930481/) 
