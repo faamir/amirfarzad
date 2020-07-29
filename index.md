@@ -6,9 +6,7 @@ title: Home
 
 A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
 
-Actively try to keep up to date and learn new approaches in this field.
-
-
+Actively try to keep up to date and learn new approaches in this field.<br>
 
 I am currently a PhD Student at University of Victoria.
 
