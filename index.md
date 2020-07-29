@@ -8,9 +8,9 @@ title: Home
 
 Actively try to keep up to date and learn new approaches in this field.</p> 
 
-<p>I am currently a PhD Student at University of Victoria.
+<p>I am currently a PhD student at University of Victoria.</p> 
 
-I have a Master in Computer Engineering-Artificial intelligence.</p> 
+<p>I have a Master in Computer Engineering-Artificial intelligence.</p> 
 
 ## Contact
 
