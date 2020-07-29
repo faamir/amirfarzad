@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-## About
+## About Me
 
 <p>A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
 
