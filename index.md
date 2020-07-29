@@ -13,9 +13,9 @@ Actively try to keep up to date and learn new approaches in this field.</p>
 <p>I have a Master in Computer Engineering-Artificial intelligence.</p> 
 
 <img src="controverse/images/amirfarzad.jpg"
-     alt="Amir Farzad"
-     width="400"
-     height="341"
+     alt="centered image"
+     width="426"
+     height="320"
      title="Amir Farzad">
 
 ## Contact
