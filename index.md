@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 ## About
-
+<center>
 <p>A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
 
 Actively try to keep up to date and learn new approaches in this field.</p> 
@@ -12,13 +12,13 @@ Actively try to keep up to date and learn new approaches in this field.</p>
 
 <p>I have a Master in Computer Engineering-Artificial intelligence.</p> 
 
-<center>
+
 <img src="controverse/images/amirfarzad.jpg"
      alt="centered image"
      width="426"
      height="320"
      title="Amir Farzad">
-</center>
+
 
 ## Links
 
@@ -31,3 +31,4 @@ Actively try to keep up to date and learn new approaches in this field.</p>
 <a href="https://www.linkedin.com/in/amir-farzad-78930481/">
 <img src="controverse/images/linkedin.png" alt="LinkedIn" style="width:5%;height:5%;">
 </a>
+</center>
