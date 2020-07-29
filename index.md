@@ -22,4 +22,8 @@ Actively try to keep up to date and learn new approaches in this field.</p>
 
 ## Contact
 
+<a href="default.asp">
+<img src="controverse/images/github-mark.png" alt="Github" style="width:42px;height:42px;">
+</a>
+
 **Other**: [Github](https://github.com/faamir), [Google Scholar](https://scholar.google.com/citations?user=wxG4QuUAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/amir-farzad-78930481/) 
