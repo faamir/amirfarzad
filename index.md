@@ -12,11 +12,13 @@ Actively try to keep up to date and learn new approaches in this field.</p>
 
 <p>I have a Master in Computer Engineering-Artificial intelligence.</p> 
 
+<center>
 <img src="controverse/images/amirfarzad.jpg"
      alt="centered image"
      width="426"
      height="320"
      title="Amir Farzad">
+</center>
 
 ## Contact
 
