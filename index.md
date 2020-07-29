@@ -4,13 +4,13 @@ title: Home
 ---
 ## About
 
-A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
+<p>A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
 
-Actively try to keep up to date and learn new approaches in this field.<br>
+Actively try to keep up to date and learn new approaches in this field.</p> 
 
-I am currently a PhD Student at University of Victoria.
+<p>I am currently a PhD Student at University of Victoria.
 
-I have a Master in Computer Engineering-Artificial intelligence.
+I have a Master in Computer Engineering-Artificial intelligence.</p> 
 
 ## Contact
 
