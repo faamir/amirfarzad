@@ -23,13 +23,13 @@ Actively try to keep up to date and learn new approaches in this field.</p>
 ## Links
 
 <center>
-<a href="https://github.com/faamir">
+<a href="https://github.com/faamir" target="_blank">
 <img src="controverse/images/github-mark.png" alt="Github" style="width:5%;height:5%;">
 </a>
-<a href="https://scholar.google.com/citations?user=wxG4QuUAAAAJ&hl=en">
+<a href="https://scholar.google.com/citations?user=wxG4QuUAAAAJ&hl=en" target="_blank">
 <img src="controverse/images/google.png" alt="Google Scholar" style="width:5%;height:4%;">
 </a>
-<a href="https://www.linkedin.com/in/amir-farzad-78930481/">
+<a href="https://www.linkedin.com/in/amir-farzad-78930481/" target="_blank">
 <img src="controverse/images/linkedin.png" alt="LinkedIn" style="width:5%;height:5%;">
 </a>
 </center>
