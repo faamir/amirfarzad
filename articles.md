@@ -6,8 +6,6 @@ title: Publications
 
 Amir Farzad and T. Aaron Gulliver. [Unsupervised log message anomaly detection‏](https://doi.org/10.1016/j.icte.2020.06.003). ICT Express, 2020.
 
-Amir Farzad and T. Aaron Gulliver. [Log Message Anomaly Detection with Oversampling‏](https://www.doi.org/10.5121/ijaia.2020.11405). International Journal of Artificial Intelligence and Applications (IJAIA), volume 11(4), pp. 53-65, 2020.
-
 Amir Farzad and T. Aaron Gulliver. [Oversampling Log Messages Using a Sequence Generative Adversarial Network for Anomaly Detection and Classification‏](https://www.doi.org/10.5121/csit.2020.100515). International Conference on Artificial Intelligence and Machine Learning, volume 10(5), pp. 163-175, 2020.
 
 Amir Farzad and T. Aaron Gulliver. [Log Message Anomaly Detection and Classification Using Auto-B/LSTM and Auto-GRU](https://arxiv.org/abs/1911.08744). preprint, 2019.
