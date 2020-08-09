@@ -11,7 +11,6 @@ title: Home
      width="213"
      height="160"
      title="Amir Farzad">
-</center>
   </nav>
 </section>
 
