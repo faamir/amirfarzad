@@ -28,5 +28,3 @@ I have a Master in Computer Engineering-Artificial intelligence.</p>
      height="320"
      title="Amir Farzad">
 </center>
-
-
