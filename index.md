@@ -28,11 +28,10 @@ I have a Master in Computer Engineering-Artificial intelligence.</p>
 
 <br>
 
-<section>
-<IMG SRC="center/images/amirfarzad.jpg” ALIGN=”right” HSPACE=”50” VSPACE=”50”/><p>My research interests:</p> 
+
+<img src="center/images/amirfarzad.jpg" align="left" /><p>My research interests:</p> 
 <p> - Machine Learning and Deep Learning</p> 
 <p> - Neural Networks</p> 
 <p> - Log Message Anomaly Detection</p> 
 <p> - Natural Language Processing</p> 
 <p> - Image/Signal Processing</p> 
-</section>
