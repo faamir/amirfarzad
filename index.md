@@ -4,6 +4,17 @@ title: Home
 ---
 ## About Me
 
+<section>
+  <nav>
+<img src="center/images/amirfarzad.jpg"
+     alt="centered image"
+     width="213"
+     height="160"
+     title="Amir Farzad">
+</center>
+  </nav>
+</section>
+
 <p> A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
 
  Actively try to keep up to date and learn new approaches in this field.</p> 
