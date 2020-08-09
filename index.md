@@ -4,8 +4,6 @@ title: Home
 ---
 ## About Me
 
-<p> </p> 
-
 <section>
   <nav>
   <center>
@@ -26,7 +24,7 @@ title: Home
 
 I have a Master in Computer Engineering-Artificial intelligence.</p> 
 
-<p> </p> 
+<br>
 
 <p>My research interests:</p> 
 <p> - Machine Learning and Deep Learning</p> 
