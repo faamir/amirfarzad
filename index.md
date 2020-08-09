@@ -12,12 +12,12 @@ title: Home
 
 I have a Master in Computer Engineering-Artificial intelligence.</p> 
 
-<p>My interests are:
-- Machine Learning and Deep Learning
-- Neural Networks
-- Log Message Anomaly Detection
-- Natural Language Processing
-- Image/Signal Processing</p> 
+<p>My interests are:</p> 
+</p> - Machine Learning and Deep Learning</p> 
+</p> - Neural Networks</p> 
+</p> - Log Message Anomaly Detection</p> 
+</p> - Natural Language Processing</p> 
+</p> - Image/Signal Processing</p> 
 
 <center>
 <img src="controverse/images/amirfarzad.jpg"
