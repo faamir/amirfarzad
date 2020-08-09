@@ -2,8 +2,6 @@
 layout: default
 title: Home
 ---
-## About Me
-<br>
 <section>
   <nav>
   <center>
@@ -15,6 +13,9 @@ title: Home
 	</center>
   </nav>
 </section>
+## About Me
+<br>
+
 
 <p> A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
 
