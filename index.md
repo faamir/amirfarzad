@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 ## About Me
-
+<br>
 <section>
   <nav>
   <center>
