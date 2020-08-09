@@ -2,7 +2,7 @@
 layout: default
 title: Publications
 ---
- ## Publications
+## Publications
 
 - Amir Farzad and T. Aaron Gulliver. [Unsupervised log message anomaly detection‏](https://doi.org/10.1016/j.icte.2020.06.003). ICT Express, 2020.
 

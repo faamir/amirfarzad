@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
- ## About Me
+## About Me
 
 <p> A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
 
@@ -20,7 +20,7 @@ title: Home
      title="Amir Farzad">
 </center>
 
- ## Links
+## Links
 
 <center>
 <a href="https://github.com/faamir" target="_blank">
