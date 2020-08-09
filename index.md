@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-
+---
 <section>
   <nav>
   <center>
