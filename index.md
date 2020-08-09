@@ -14,7 +14,7 @@ I have a Master in Computer Engineering-Artificial intelligence.</p>
 
 <p></p> 
 
-<p>My interests are:</p> 
+<p>My research interests:</p> 
 <p> - Machine Learning and Deep Learning</p> 
 <p> - Neural Networks</p> 
 <p> - Log Message Anomaly Detection</p> 
