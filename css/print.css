@@ -88,3 +88,10 @@ pre {
   padding: 0.5em;
   white-space: pre-wrap; white-space: -moz-pre-wrap !important;
 }
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  body {
+    background: #999;
+    width: 100%;
+  }
+}
