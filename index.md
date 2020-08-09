@@ -2,17 +2,6 @@
 layout: default
 title: Home
 ---
-<section>
-  <nav>
-  <center>
-  <img src="center/images/amirfarzad.jpg"
-     alt="centered image"
-     width="213"
-     height="160"
-     title="Amir Farzad">
-	</center>
-  </nav>
-</section>
  
 ## About Me
 
