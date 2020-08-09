@@ -13,9 +13,10 @@ title: Home
 	</center>
   </nav>
 </section>
-## About Me
-<br>
 
+## About Me
+
+<br>
 
 <p> A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
 
