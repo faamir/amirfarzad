@@ -12,6 +12,8 @@ title: Home
 
 I have a Master in Computer Engineering-Artificial intelligence.</p> 
 
+<p></p> 
+
 <p>My interests are:</p> 
 <p> - Machine Learning and Deep Learning</p> 
 <p> - Neural Networks</p> 
