@@ -20,11 +20,3 @@ I have a Master in Computer Engineering-Artificial intelligence.</p>
 <p> - Log Message Anomaly Detection</p> 
 <p> - Natural Language Processing</p> 
 <p> - Image/Signal Processing</p> 
-
-<center>
-<img src="center/images/amirfarzad.jpg"
-     alt="centered image"
-     width="426"
-     height="320"
-     title="Amir Farzad">
-</center>
