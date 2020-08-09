@@ -8,9 +8,16 @@ title: Home
 
  Actively try to keep up to date and learn new approaches in this field.</p> 
 
-<p> I am currently a PhD student at University of Victoria (Electrical & Computer Engineering).</p> 
+<p> I am currently a PhD student at University of Victoria (Electrical & Computer Engineering).
 
-<p> I have a Master in Computer Engineering-Artificial intelligence.</p> 
+I have a Master in Computer Engineering-Artificial intelligence.</p> 
+
+<p>My interests are:
+- Machine Learning and Deep Learning
+- Neural Networks
+- Log Message Anomaly Detection
+- Natural Language Processing
+- Image/Signal Processing</p> 
 
 <center>
 <img src="controverse/images/amirfarzad.jpg"
