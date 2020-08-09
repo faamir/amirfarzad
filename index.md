@@ -4,13 +4,17 @@ title: Home
 ---
 ## About Me
 
+<p> </p> 
+
 <section>
   <nav>
-<img src="center/images/amirfarzad.jpg"
+  <center>
+  <img src="center/images/amirfarzad.jpg"
      alt="centered image"
      width="213"
      height="160"
      title="Amir Farzad">
+	</center>
   </nav>
 </section>
 
@@ -22,7 +26,7 @@ title: Home
 
 I have a Master in Computer Engineering-Artificial intelligence.</p> 
 
-<p></p> 
+<p> </p> 
 
 <p>My research interests:</p> 
 <p> - Machine Learning and Deep Learning</p> 
