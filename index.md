@@ -2,15 +2,15 @@
 layout: default
 title: Home
 ---
-## About Me
+ ## About Me
 
-<p>A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
+<p> A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
 
-Actively try to keep up to date and learn new approaches in this field.</p> 
+ Actively try to keep up to date and learn new approaches in this field.</p> 
 
-<p>I am currently a PhD student at University of Victoria (Electrical & Computer Engineering).</p> 
+<p> I am currently a PhD student at University of Victoria (Electrical & Computer Engineering).</p> 
 
-<p>I have a Master in Computer Engineering-Artificial intelligence.</p> 
+<p> I have a Master in Computer Engineering-Artificial intelligence.</p> 
 
 <center>
 <img src="controverse/images/amirfarzad.jpg"
@@ -20,7 +20,7 @@ Actively try to keep up to date and learn new approaches in this field.</p>
      title="Amir Farzad">
 </center>
 
-## Links
+ ## Links
 
 <center>
 <a href="https://github.com/faamir" target="_blank">
