@@ -6,7 +6,7 @@ title: Home
 ## About Me
 
 <br>
-
+<img src="center/images/amirfarzad.jpg" width="213" height="160" title="Amir Farzad" align="right" />
 <p> A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
 
  Actively try to keep up to date and learn new approaches in this field.</p> 
@@ -17,8 +17,6 @@ I have a Master in Computer Engineering-Artificial intelligence.</p>
 
 <br>
 
-
-<img src="center/images/amirfarzad.jpg" width="213" height="160" title="Amir Farzad" align="right" />
 <p>My research interests:</p> 
 <p> - Machine Learning and Deep Learning</p> 
 <p> - Neural Networks</p> 
