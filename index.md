@@ -17,11 +17,13 @@ I have a Master in Computer Engineering-Artificial intelligence. </p>
 
 <br>
 
-<img src="center/images/amirfarzad.jpg" alt="Amir Farzad" width="213" height="160" title="Amir Farzad" align="right" />
 <p>My research interests:</p> 
 <p> - Machine Learning and Deep Learning</p> 
 <p> - Neural Networks</p> 
 <p> - Log Message Anomaly Detection</p> 
 <p> - Natural Language Processing</p> 
 <p> - Image/Signal Processing</p> 
+
+<img src="center/images/amirfarzad.jpg" alt="Amir Farzad" width="213" height="160" title="Amir Farzad" />
+
 
