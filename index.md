@@ -6,7 +6,7 @@ title: Home
 ## About Me
 
 <br>
-<p style=”text-align:justify; text-justify:auto;” />
+style=”text-align:justify; text-justify:auto;”
 <img src="center/images/amirfarzad.jpg" alt="Amir Farzad" width="213" height="160" title="Amir Farzad" align="right" />
 <p> A Machine/Deep Learning enthusiast and researcher for anomaly detection and classification. 
 
