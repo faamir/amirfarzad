@@ -27,6 +27,4 @@ I have a Master in Computer Engineering-Artificial intelligence. </p>
 <p> - Natural Language Processing</p> 
 <p> - Image/Signal Processing</p> 
 
-<center><img src="center/images/amirfarzad.jpg" alt="Amir Farzad" width="213" height="160" title="Amir Farzad" /></center>
-
 
