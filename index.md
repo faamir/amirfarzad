@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
  
+ <center><img src="center/images/AmirFarzadVictoria.jpg" alt="Amir Farzad Victoria Canada"  title="Amir Farzad" /></center>
+
+ 
 ## About Me
 
 <br>
