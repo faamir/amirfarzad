@@ -290,3 +290,14 @@ body#about #content strong, body#about #content a {
 #book pre {
   overflow:auto;
 }
+
+aside {
+    width: 260px;
+    float: right;
+    border-top: 1px solid #21a1e1;
+    border-left: 1px solid #21a1e1;
+    border-right: 1px solid #21a1e1;
+    border-bottom: 1px solid #21a1e1;
+    padding-left: 0px;
+    margin-left: 20px; // Add here
+}
