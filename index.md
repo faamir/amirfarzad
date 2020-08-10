@@ -17,6 +17,7 @@ I have a Master in Computer Engineering-Artificial intelligence. </p>
 
 <br>
 
+<section>
 <p>My research interests:</p> 
 <p> - Machine Learning and Deep Learning</p> 
 <p> - Neural Networks</p> 
@@ -25,4 +26,4 @@ I have a Master in Computer Engineering-Artificial intelligence. </p>
 <p> - Image/Signal Processing</p> 
 
 <img src="center/images/amirfarzad.jpg" alt="Amir Farzad" width="213" height="160" title="Amir Farzad" align="right" />
-
+</section>
