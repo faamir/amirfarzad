@@ -16,7 +16,7 @@ title: Home
 
 <p> I am currently a PhD student at University of Victoria (Electrical & Computer Engineering).
 
-I have a Master in Computer Engineering-Artificial intelligence. </p> 
+I have a Master's degree in Computer Engineering-Artificial intelligence. </p> 
 
 <br>
 
