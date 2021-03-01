@@ -14,4 +14,4 @@ title: Publications
 
 - Amir Farzad and Hoda Mashayekhi. [Evaluation the Role of Activation Function in LSTM Networks](https://www.civilica.com/Paper-IRCEM01-IRCEM01_213.html). Conference of Interdisciplinary Research in Computer, Electrical, Mechanical, and Mechatronics Engineering, 2016.
 
-- Amir Farzad and T. Aaron Gulliver. [Log Message Anomaly Detection and Classification Using Auto-B/LSTM and Auto-GRU](https://arxiv.org/abs/1911.08744). preprint, 2019.
+- Amir Farzad and T. Aaron Gulliver. [Log Message Anomaly Detection and Classification Using Auto-B/LSTM and Auto-GRU](https://arxiv.org/abs/1911.08744). preprint, 2019. 
